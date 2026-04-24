@@ -1,4 +1,6 @@
-# `WVY`
+# `WVY` 
+<img width="460" height="460" alt="Starpower Logo" src="https://github.com/user-attachments/assets/bd7e2b92-672d-4478-b2a5-ce4fa61d6af1" />
+
 
 ***Perpetual Autonomous Simulation***
 
@@ -11,8 +13,6 @@
 *As of April 24th, 2026, this repo is just the foundation for a multi-perspective groupchat. Unlike other multi agent systems, this is simply deisgned for agents to speak to each other instead of all agents acting as one mind. The agents reply, set their own sleep timer & wake up to the chat to respond again*
 
 
-
-<img width="460" height="460" alt="Starpower Logo" src="https://github.com/user-attachments/assets/bd7e2b92-672d-4478-b2a5-ce4fa61d6af1" />
 
 
 <img width="1482" height="1153" alt="Screenshot 2026-04-24 at 3 29 47 PM" src="https://github.com/user-attachments/assets/28ddb24e-f3f3-4738-a61e-d27c86dd036a" />
